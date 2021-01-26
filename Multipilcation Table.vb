@@ -1,4 +1,14 @@
-﻿Module Module1
+﻿'Kendall Callister
+'Tim Rossiter
+'RCET0265
+'Spring 2021
+'Multiplication Table
+'https://github.com/callkend/Multipilcation-Table.git
+
+Option Explicit On
+Option Strict On
+
+Module Module1
 
     Sub Main()
         Dim tableSize As Int16
