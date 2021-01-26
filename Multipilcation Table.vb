@@ -1,5 +1,4 @@
 ﻿'Kendall Callister
-'Tim Rossiter
 'RCET0265
 'Spring 2021
 'Multiplication Table
